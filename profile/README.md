@@ -1,6 +1,6 @@
 # Murray Rothbot Architecture
 
-![Architecture](./profile/architecture.png)
+![Architecture](./architecture.png)
 
 ### Clients
 
